@@ -20,13 +20,15 @@
     padding:10px;
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
-.calc-container input{
+.display-font1{
+    font-size: 50px;
+}
+.display{
     background-color:rgb(238, 234, 234);
     height:80px;
     width:300px;
     border:none;
     outline:none;
-    font-size: 50px;
     color:rgb(195, 29, 29);
     margin-bottom: 10px;
     text-align: end;
@@ -49,4 +51,7 @@
 }
 .special-key{
     color:rgb(61, 131, 61);
+}
+.above-6{
+    font-size: 30px;
 }
